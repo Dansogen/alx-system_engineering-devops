@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +wx /alx-system_engineering-devops/
+chmod ugo+wx /0x01-shell_permissions/
