@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +wx /alx-system_engineering-devops/
+chmod +wx /alx-system_engineering-devops/
