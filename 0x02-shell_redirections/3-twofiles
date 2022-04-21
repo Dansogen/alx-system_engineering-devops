@@ -1,2 +1,2 @@
 #!/bin/bash
-find /etc/passwd /etc/hosts
+less /etc/passwd /etc/hosts
